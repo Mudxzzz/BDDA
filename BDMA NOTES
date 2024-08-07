@@ -1,0 +1,37 @@
+HADOOP - 
+07/08/2024
+
+Fourier Transformation - in place of relu, selu , etc
+
+Relu - 0 or 1 
+sigmoid - 0 to 1 
+ - 1 to 1
+Models for predicting 
+
+Moving average - 
+EWMA - holt & hotling
+ARIMA - Mean - robert engle
+Auto ARIMA - 
+GARCH - Volitility
+Multi varied GARCH - frequency domain analysis of time series data 
+
+Bogus trade - Finance - Making the market - Harshad mehta - 
+
+## Linux/Hadoop
+
+DIR  FOLDER  FILES
+    *Create *Write
+    *Move   *read
+    *       *close
+
+
+
+KNIME 
+
+Analysus through widgets
+
+T test - 2 variables 
+V1 - M1 v1 , V2 - M2 v2
+Test null, ( same or not )
+
+Rule engine - configue - code - 
