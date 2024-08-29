@@ -35,3 +35,36 @@ V1 - M1 v1 , V2 - M2 v2
 Test null, ( same or not )
 
 Rule engine - configure - code - 
+
+
+Analytical Report - 
+1. Objective ? Prob state
+2. Data Info / Analysis Info
+3. Observations / Findings
+4. Managerial insights / reccomendations
+
+DATA | ANALYSIS
+
+Data - 
+First things report about data - Data Dimensions 1. No of Variables and records(Features)
+                                                 2. Source and Size of the data
+                                                 3. Nature/Type of Data , Time-series, Panel data, Cross-sectional. Data Frequency 
+
+Data Info - Categorical (nominal/ordinal) / Non-Categorical Data , Data Indices
+
+ANALYSIS -
+
+Data preprocessing - 
+# Missing data Treatment : Divide into Cat and Non Cat. 1, Missing data treatment, Cat - Frequncy, K nearest Neighbour tables, KNN, | 
+                                                                         Non Cat - Mean, Median, KNN.
+
+Non MDT treatment - Sparse datasets , {purchase data sets} , market basket anaysis, POS datasets, fraud detection. 
+
+Catergorised - Numerical encoding for text, 
+
+Decision Tree, classifying, logistic , KNN
+
+# UNCODING 
+# OUTLIER DATA TREATMENT 
+ rescaling  > descriptive - Kertosis and skewness
+            > Box plots 
