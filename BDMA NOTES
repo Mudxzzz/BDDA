@@ -65,6 +65,10 @@ Catergorised - Numerical encoding for text,
 Decision Tree, classifying, logistic , KNN
 
 # UNCODING 
-# OUTLIER DATA TREATMENT 
+# OUTLIER DATA TREATMENT ( generally NCAT data )
  rescaling  > descriptive - Kertosis and skewness
             > Box plots 
+
+2)   DESCRIPTIVE STATS
+measures of Central tendency - Mean, Median, Mode.
+MO Dispersion - STD, skweness, mediv, kurtosis. 
