@@ -72,3 +72,21 @@ Decision Tree, classifying, logistic , KNN
 2)   DESCRIPTIVE STATS
 measures of Central tendency - Mean, Median, Mode.
 MO Dispersion - STD, skweness, mediv, kurtosis. 
+
+
+
+
+
+MongoDB 
+{ 
+"_id": Objextid(""),
+"Name": "Mudit Agnihotri",
+Social_profiles:{
+i:"mudit.ag"
+l:"Mudit Agnihotri"
+x:"Mudxzzz" 
+  } hobbies: "Football", "Music"
+}
+
+
+
